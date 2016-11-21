@@ -1,0 +1,25 @@
+{
+  "name": "angular-webpack",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "bundle": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kenhowardpdx/angular-webpack.git"
+  },
+  "keywords": [],
+  "author": "Sonu Jose <sonujose993@gmail.com.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kenhowardpdx/angular-webpack/issues"
+  },
+  "homepage": "https://github.com/kenhowardpdx/angular-webpack#readme",
+  "devDependencies": {
+    "angular": "^1.5.0",
+    "webpack": "^1.12.14"
+  }
+}
